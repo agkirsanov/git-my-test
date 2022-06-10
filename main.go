@@ -5,6 +5,8 @@ import (
 	"strings"
 )
 
+//2
+
 func main() {
 	conferenceName := "Go conference"
 	const conferenceTickets int = 50
