@@ -1,10 +1,15 @@
 package main
+
 //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
 import (
 	"fmt"
 	"strings"
 )
 
+//3
+//4
+//5
+//6
 func main() {
 	conferenceName := "Go conference"
 	const conferenceTickets int = 50
